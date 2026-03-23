@@ -1,1 +1,1 @@
-# Calculator
+This project is a simple calculator program written in the C programming language. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The program is designed for beginners to understand fundamental concepts like input/output, functions, and control structures in C.
